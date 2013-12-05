@@ -1,0 +1,8 @@
+{
+    "name": "bourbon",
+    "description": "Bourbon - A simple and lightweight mixin library for SASS, with SCSS syntax",
+    "homepage": "https://github.com/chicagogrooves/meteor-bourbon",
+    "author": "Dean Radcliffe (http://www.deanius.com)",
+    "version": "3.1.8",
+    "git": "https://github.com/chicagogrooves/meteor-bourbon.git"
+}
