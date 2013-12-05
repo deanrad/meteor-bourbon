@@ -9,6 +9,6 @@ Bourbon directives are available during the SCSS pre-processing stage, so only t
 1. Install [meteorite](https://github.com/oortcloud/meteorite)
 2. `mrt add scss`
 3. `mrt add bourbon`
-4. Include `@import "bourbon/bourbon";` in your SCSS, and `@include` away !
+4. Include `@import "packages/bourbon/bourbon";` in your SCSS, and `@include` away !
 
 

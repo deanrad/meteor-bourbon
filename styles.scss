@@ -1,0 +1,9 @@
+@import "packages/bourbon/bourbon";
+
+$fontz:    Helvetica, sans-serif;
+body{
+	@include linear-gradient(to top, red, orange);
+	h1{ 
+		font-family: $fontz;
+	}
+}
